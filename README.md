@@ -12,10 +12,6 @@ Cette interface comprend :
 * Un bouton d'authentification élégant
 * Une interface responsive et facilement personnalisable
 
-<p align="center">
-  <img src="screenshots/nova-login-ui-preview.png" width="350">
-</p>
-
 ## Technologies utilisées
 
 * Flutter
@@ -46,10 +42,6 @@ Lancez l'application :
 ```bash
 flutter run
 ```
-
-## Capture d'écran
-
-![Nova Login UI](screenshots/login-screen.png)
 
 ## Licence
 
