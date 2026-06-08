@@ -1,17 +1,52 @@
-# loginpage2
+# Nova Login UI
 
-A new Flutter project.
+Nova Login UI est une interface de connexion moderne développée avec Flutter. Ce projet met en avant un design élégant inspiré du glassmorphism, associé à un fond violet immersif pour offrir une expérience utilisateur moderne et soignée.
 
-## Getting Started
+## Aperçu
 
-This project is a starting point for a Flutter application.
+Cette interface comprend :
 
-A few resources to get you started if this is your first Flutter project:
+* Un fond personnalisé aux tons violets
+* Des champs de saisie avec effet glassmorphism
+* Une carte de connexion moderne
+* Un bouton d'authentification élégant
+* Une interface responsive et facilement personnalisable
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies utilisées
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# LoginPage-2
+* Flutter
+* Dart
+
+## Installation
+
+Clonez le projet :
+
+```bash
+git clone https://github.com/votre-utilisateur/nova-login-ui.git
+```
+
+Accédez au dossier du projet :
+
+```bash
+cd nova-login-ui
+```
+
+Installez les dépendances :
+
+```bash
+flutter pub get
+```
+
+Lancez l'application :
+
+```bash
+flutter run
+```
+
+## Capture d'écran
+
+![Nova Login UI](screenshots/login-screen.png)
+
+## Licence
+
+Ce projet est distribué à des fins d'apprentissage et de démonstration.
