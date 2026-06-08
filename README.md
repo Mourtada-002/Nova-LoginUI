@@ -12,7 +12,9 @@ Cette interface comprend :
 * Un bouton d'authentification élégant
 * Une interface responsive et facilement personnalisable
 
-<img src="screenshots/nova-login-ui-preview.png" width="350">
+<p align="center">
+  <img src="screenshots/nova-login-ui-preview.png" width="350">
+</p>
 
 ## Technologies utilisées
 
