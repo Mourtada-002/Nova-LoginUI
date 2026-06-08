@@ -2,10 +2,6 @@
 
 Nova Login UI est une interface de connexion moderne développée avec Flutter. Ce projet met en avant un design élégant inspiré du glassmorphism, associé à un fond violet immersif pour offrir une expérience utilisateur moderne et soignée.
 
-<p align="center">
-  <img src="screenshots/nova-login-ui-preview.png" width="350">
-</p>
-
 ## Aperçu
 
 Cette interface comprend :
@@ -15,6 +11,10 @@ Cette interface comprend :
 * Une carte de connexion moderne
 * Un bouton d'authentification élégant
 * Une interface responsive et facilement personnalisable
+
+<p align="center">
+  <img src="screenshots/nova-login-ui-preview.png" width="350">
+</p>
 
 ## Technologies utilisées
 
@@ -26,7 +26,7 @@ Cette interface comprend :
 Clonez le projet :
 
 ```bash
-git clone https://github.com/votre-utilisateur/nova-login-ui.git
+git clone https://github.com/Mourtada-002/Nova-LoginUI.git
 ```
 
 Accédez au dossier du projet :
@@ -46,6 +46,10 @@ Lancez l'application :
 ```bash
 flutter run
 ```
+
+## Capture d'écran
+
+![Nova Login UI](screenshots/login-screen.png)
 
 ## Licence
 
