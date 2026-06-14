@@ -16,4 +16,4 @@ A **modern login interface built with Flutter**, combining an immersive purple b
 
 ## Preview
 
-![Preview](assets/preview1.png)
+![Preview](assets/preview.png)
