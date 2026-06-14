@@ -13,3 +13,7 @@ A **modern login interface built with Flutter**, combining an immersive purple b
 
 - **Flutter** – Cross-platform UI framework
 - **Dart** – Application logic and widget structure
+
+## Preview
+
+![Preview](assets/preview.png)
